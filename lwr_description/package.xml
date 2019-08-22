@@ -3,7 +3,7 @@
   <version>0.1.0</version>
   <description>The lwr_description package contains the URDF model of a KUKA LWR 4+ arm.</description>
 
-  <maintainer> </maintainer>
+   <maintainer email="huibindu1@gmail.com">Huibin Du</maintainer>
 
   <license>TODO</license>
 
